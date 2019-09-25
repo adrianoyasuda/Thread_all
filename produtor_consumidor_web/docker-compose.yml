@@ -1,0 +1,25 @@
+version: '3.3'
+volumes:
+  data_ppd_aula6:
+services:
+  db:
+    image: postgres:11-alpine
+    volumes:
+      - data_ppd_aula6:/var/lib/postgresql/data
+    environment:
+      - POSTGRES_PASSWORD=SenhaComplexa
+      - POSTGRES_DB=ppd_aula6
+      - POSTGRES_USER=user
+      - COMPOSE_INTERACTIVE_NO_CLI=1
+    ports:
+      - "5432:5432"
+
+  web:
+    build: ./web/.
+    command: python app.py
+    volumes:
+      - ./web/:/code
+    ports:
+      - "5000:5000"
+    depends_on:
+      - db

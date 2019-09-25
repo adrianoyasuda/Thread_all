@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="496531d5-5328-49ca-9022-e8c22a231180" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/aula3_introducao_threads/helloThreading.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula3_introducao_threads/helloThreading.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula3_introducao_threads/resolucao_exercicios/texto.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula3_introducao_threads/resolucao_exercicios/texto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula4_threads_sincronizacao/exemplo_condition.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula4_threads_sincronizacao/exemplo_condition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula4_threads_sincronizacao/exemplo_fila.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula4_threads_sincronizacao/exemplo_fila.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula4_threads_sincronizacao/exemplo_rlock.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula4_threads_sincronizacao/exemplo_rlock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula4_threads_sincronizacao/exemplo_semaforo.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula4_threads_sincronizacao/exemplo_semaforo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula4_threads_sincronizacao/race_condition.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula4_threads_sincronizacao/race_condition.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/aula4_threads_sincronizacao" />
+  </component>
+  <component name="ProjectId" id="1RJzc37MjyubhdkN9VKUktCdkxX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.race_condition">
+    <configuration name="exemplo_condition" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyCharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aula4_threads_sincronizacao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula4_threads_sincronizacao/exemplo_condition.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exemplo_fila" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyCharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aula4_threads_sincronizacao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula4_threads_sincronizacao/exemplo_fila.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exemplo_rlock" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyCharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aula4_threads_sincronizacao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula4_threads_sincronizacao/exemplo_rlock.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exemplo_semaforo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyCharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aula4_threads_sincronizacao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula4_threads_sincronizacao/exemplo_semaforo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="race_condition" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyCharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aula4_threads_sincronizacao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula4_threads_sincronizacao/race_condition.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.race_condition" />
+        <item itemvalue="Python.exemplo_rlock" />
+        <item itemvalue="Python.exemplo_semaforo" />
+        <item itemvalue="Python.exemplo_fila" />
+        <item itemvalue="Python.exemplo_condition" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="496531d5-5328-49ca-9022-e8c22a231180" name="Default Changelist" comment="" />
+      <created>1569400062289</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569400062289</updated>
+      <workItem from="1569400063792" duration="369000" />
+      <workItem from="1569400455704" duration="7455000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PyCharmProjects$exemplo_semaforo.coverage" NAME="exemplo_semaforo Coverage Results" MODIFIED="1569410529225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aula4_threads_sincronizacao" />
+    <SUITE FILE_PATH="coverage/PyCharmProjects$calling_process.coverage" NAME="calling_process Coverage Results" MODIFIED="1569402929642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aula3_introducao_threads" />
+    <SUITE FILE_PATH="coverage/PyCharmProjects$race_condition.coverage" NAME="race_condition Coverage Results" MODIFIED="1569410788675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aula4_threads_sincronizacao" />
+    <SUITE FILE_PATH="coverage/PyCharmProjects$helloThreads.coverage" NAME="helloThreads Coverage Results" MODIFIED="1569403025171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aula3_introducao_threads" />
+    <SUITE FILE_PATH="coverage/PyCharmProjects$main.coverage" NAME="main Coverage Results" MODIFIED="1569400657111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Trabalho" />
+    <SUITE FILE_PATH="coverage/PyCharmProjects$texto.coverage" NAME="texto Coverage Results" MODIFIED="1569401157551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aula3_introducao_threads/resolucao_exercicios" />
+    <SUITE FILE_PATH="coverage/PyCharmProjects$saveandload.coverage" NAME="saveandload Coverage Results" MODIFIED="1569400754504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aula01-adrianoyasuda" />
+    <SUITE FILE_PATH="coverage/PyCharmProjects$exemplo_deadlock_.coverage" NAME="exemplo_deadlock. Coverage Results" MODIFIED="1569404835443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aula4_threads_sincronizacao" />
+    <SUITE FILE_PATH="coverage/PyCharmProjects$helloThreading.coverage" NAME="helloThreading Coverage Results" MODIFIED="1569402553702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aula3_introducao_threads" />
+    <SUITE FILE_PATH="coverage/PyCharmProjects$exemplo_rlock.coverage" NAME="exemplo_rlock Coverage Results" MODIFIED="1569410534648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aula4_threads_sincronizacao" />
+    <SUITE FILE_PATH="coverage/PyCharmProjects$exemplo_condition.coverage" NAME="exemplo_condition Coverage Results" MODIFIED="1569405030453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aula4_threads_sincronizacao" />
+    <SUITE FILE_PATH="coverage/PyCharmProjects$exemplo_fila.coverage" NAME="exemplo_fila Coverage Results" MODIFIED="1569405437562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aula4_threads_sincronizacao" />
+  </component>
+</project>

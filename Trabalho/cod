@@ -1,0 +1,11 @@
+import re
+from urllib.request import urlopen
+
+
+url= "http://infopguaifpr.com.br"
+html = str(urlopen(url).read())
+
+
+x = re.findall("http://infopguaifpr.com.br([\w.,@?^=%&:/~+#-]*[\w@?^=%&/~+#-]) ?", html)
+
+print(x)
